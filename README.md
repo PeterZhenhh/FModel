@@ -1,4 +1,4 @@
-FModel - An Unreal Engine Archives Explorer in C#
+FModel - An Unreal Engine Archives Explorer in C# 
 ------------------------------------------
 
 [![CI Status](https://img.shields.io/github/actions/workflow/status/4sval/FModel/qa.yml?label=CI)](https://github.com/4sval/FModel/actions)
